@@ -1,6 +1,7 @@
 {
     "name": "fcc-learn-npm-package-json",
     "author": "Maruthi",
+    "description": "This project provides a boilerplate for a NodeJS project setup through npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
