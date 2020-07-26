@@ -4,6 +4,7 @@
     "description": "This project provides a boilerplate for a NodeJS project setup through npm",
     "keywords" :[ "freecodecamp", "nodejs", "npm", "boilerplate" ],
     "license": "MIT",
+    "version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
